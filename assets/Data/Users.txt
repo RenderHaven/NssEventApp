@@ -1,0 +1,17 @@
+{
+    "user1": {
+        "id": "stu1",
+        "pass": "1234568",
+        "typ": "Student"
+    },
+    "user2": {
+        "id": "stu2",
+        "pass": "abcdefg",
+        "typ" :"Menter"
+    },
+    "user3": {
+        "id": "stu3",
+        "pass": "hijklmn",
+        "typ" : "Gen"
+    }
+}
